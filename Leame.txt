@@ -1,0 +1,2 @@
+Proyecto compilado con Qt
+Iniciado en 09/2017
