@@ -1,1 +1,1 @@
-SSS
+Proyecto compilado con Qt
